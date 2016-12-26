@@ -17,7 +17,7 @@ Screenshot of the Datalakes IEP app in action
 
 ## About Blog
 
-Documenting the solutions I came up for feature enhancements in our Integrated Application Platform app.  
+Documenting few of the interesting feature enhancements I worked on in our Integrated Application Platform.  
 
 -	[Infinite Scroll with Lazy Loading](#infinite-scroll-with-lazy-loading)
 -	[Auto Authenticate on Sign In](#auto-authenticate-on-sign-in)
