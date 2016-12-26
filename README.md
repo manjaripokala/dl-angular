@@ -1,4 +1,3 @@
-![Clock](http://www.gradeinfinity.com/wp-content/uploads/2012/09/CartoonClock3.jpg)
 
 ## Intro / Bio
 
@@ -9,6 +8,8 @@ Hello World, this is [Manjari Pokala](https://www.linkedin.com/in/manjari-pokala
 Datalakes Information Experience Platform is a Business Intelligence and Analytics solution on the Cloud. It addresses all the aspects of Data-to- Information cycle : Acquire, Process, Store, Analyze, Visualize and Publish - all delivered as a self service platform. The platform provides an easy access to the stunning from any browser or mobile device.
 
 Thanks to founders [Krishna](https://www.linkedin.com/in/krishnaanisetty) & [Rajeev](https://www.linkedin.com/in/rajeevps) for giving me the opportunity to work on the cool app. 
+
+![dl-mac](http://datalakes.com/wp-content/uploads/2014/03/imac.png)
 
 ## About Blog
 
