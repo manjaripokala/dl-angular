@@ -1,6 +1,6 @@
 ## Intro / Bio
 
-Hello World, this is Manjari Pokala. Currently working as an Java Application Developer at a small Big Data startup [Datalakes Inc](www.datalakes.com). My past experience 
+Hello World, this is Manjari Pokala. Currently working as an Java Application Developer at a small Big Data startup [Datalakes Inc](http://www.datalakes.com). My past experience 
 
 ## About Datalakes
 
