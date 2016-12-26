@@ -1,16 +1,18 @@
-![](http://www.gradeinfinity.com/wp-content/uploads/2012/09/CartoonClock3.jpg)
+![Clock](http://www.gradeinfinity.com/wp-content/uploads/2012/09/CartoonClock3.jpg)
 
 ## Intro / Bio
 
-Hello World, this is Manjari Pokala. Currently working as an Java Application Developer at a small Big Data startup [Datalakes Inc](http://www.datalakes.com). My past experience is in Java based web application development.
+Hello World, this is [Manjari Pokala](https://www.linkedin.com/in/manjari-pokala). Currently working as an Application Developer at a small Big Data startup [Datalakes Inc](http://www.datalakes.com). My past experience is in Java based web application development.
 
 ## About Datalakes
 
 Datalakes Information Experience Platform is a Business Intelligence and Analytics solution on the Cloud. It addresses all the aspects of Data-to- Information cycle : Acquire, Process, Store, Analyze, Visualize and Publish - all delivered as a self service platform. The platform provides an easy access to the stunning from any browser or mobile device.
 
+Thanks to founders [Krishna](https://www.linkedin.com/in/krishnaanisetty) & [Rajeev](https://www.linkedin.com/in/rajeevps) for giving me the opportunity to work on the cool app. 
+
 ## About Blog
 
-Documenting the solutions I came up with for feature enhancements in our Integrated Application Platform app.  
+Documenting the solutions I came up for feature enhancements in our Integrated Application Platform app.  
 
 -	[Infinite Scroll with Lazy Loading](#infinite-scroll-with-lazy-loading)
 -	[Auto Authenticate on Sign In](#auto-authenticate-on-sign-in)
@@ -19,7 +21,7 @@ Documenting the solutions I came up with for feature enhancements in our Integra
 Infinite Scroll with Lazy Loading
 ---------------------------------
 
-It is often desirable to fetch a small number of rows from a huge table to help with page the page load times. 
+It is often desirable to fetch a small number of rows from a huge table to help with page the page load times.
 
 
 Auto Authenticate on Sign In
