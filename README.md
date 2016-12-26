@@ -1,9 +1,22 @@
+![](http://www.gradeinfinity.com/wp-content/uploads/2012/09/CartoonClock3.jpg)
+
 ## Intro / Bio
 
-Hello World, this is Manjari Pokala. Currently working as an Java Application Developer at a small Big Data startup [Datalakes Inc](http://www.datalakes.com). My past experience 
+Hello World, this is Manjari Pokala. Currently working as an Java Application Developer at a small Big Data startup [Datalakes Inc](http://www.datalakes.com). My past experience is in Java based web application development.
 
 ## About Datalakes
 
+
+## About Blog
+
+-	[Infinite Scroll with Lazy Loading](#infinite-scroll-with-lazy-loading)
+
+
+
+Infinite Scroll with Lazy Loading
+---------------------------------
+
+It is often desirable to fetch a small number of rows from a huge table to help with page the page load times. 
 
 
 ## Welcome to GitHub Pages
