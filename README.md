@@ -5,7 +5,7 @@ Hello World, this is [Manjari Pokala](https://www.linkedin.com/in/manjari-pokala
 
 ## About Datalakes
 
-Datalakes Information Experience Platform is a Business Intelligence and Analytics solution on the Cloud. It addresses all the aspects of Data-to- Information cycle : Acquire, Process, Store, Analyze, Visualize and Publish - all delivered as a self service platform. The platform provides an easy access to the stunning from any browser or mobile device.
+Datalakes Information Experience Platform is a Business Intelligence and Analytics solution on the Cloud. It addresses all the aspects of Data-to-Information cycle : Acquire, Process, Store, Analyze, Visualize and Publish - all delivered as a self service platform. The platform provides an easy access to the stunning from any browser or mobile device.
 
 Thanks to founders [Krishna](https://www.linkedin.com/in/krishnaanisetty) & [Rajeev](https://www.linkedin.com/in/rajeevps) for giving me the opportunity to work on the cool app. 
 
