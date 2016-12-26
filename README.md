@@ -9,6 +9,10 @@ Datalakes Information Experience Platform is a Business Intelligence and Analyti
 
 Thanks to founders [Krishna](https://www.linkedin.com/in/krishnaanisetty) & [Rajeev](https://www.linkedin.com/in/rajeevps) for giving me the opportunity to work on the cool app. 
 
+Please feel free to watch the [demo](http://datalakes.com/demo/) to know more about our platform.
+
+Screenshot of the Datalakes IEP app in action
+
 ![dl-mac](http://datalakes.com/wp-content/uploads/2014/03/imac.png)
 
 ## About Blog
