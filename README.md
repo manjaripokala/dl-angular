@@ -6,11 +6,14 @@ Hello World, this is Manjari Pokala. Currently working as an Java Application De
 
 ## About Datalakes
 
+Datalakes Information Experience Platform is a Business Intelligence and Analytics solution on the Cloud. It addresses all the aspects of Data-to- Information cycle : Acquire, Process, Store, Analyze, Visualize and Publish - all delivered as a self service platform. The platform provides an easy access to the stunning from any browser or mobile device.
 
 ## About Blog
 
--	[Infinite Scroll with Lazy Loading](#infinite-scroll-with-lazy-loading)
+Documenting the solutions I came up with for feature enhancements in our Integrated Application Platform app.  
 
+-	[Infinite Scroll with Lazy Loading](#infinite-scroll-with-lazy-loading)
+-	[Auto Authenticate on Sign In](#auto-authenticate-on-sign-in)
 
 
 Infinite Scroll with Lazy Loading
@@ -18,6 +21,11 @@ Infinite Scroll with Lazy Loading
 
 It is often desirable to fetch a small number of rows from a huge table to help with page the page load times. 
 
+
+Auto Authenticate on Sign In
+----------------------------
+
+Fetch the user information without the need for refreshing the sign in page.
 
 ## Welcome to GitHub Pages
 
