@@ -28,6 +28,8 @@ Documenting few of the interesting feature enhancements I worked on in our Integ
 Infinite Scroll with Lazy Loading
 ---------------------------------
 
+![lazyload](lazyload.gif)
+
 It is often desirable to fetch a small number of rows from a huge table to help with page the page load times.
 
 
