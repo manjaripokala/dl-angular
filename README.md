@@ -22,6 +22,7 @@ Documenting few of the interesting feature enhancements I worked on in our Integ
 -	[Infinite Scroll with Lazy Loading](#infinite-scroll-with-lazy-loading)
 -	[Auto Authenticate on Sign In](#auto-authenticate-on-sign-in)
 -	[BootStrap Grid Behavior](#bootstrap-grid-behavior)
+-	[Maximize Widgets](#maximize-widgets)
 - [Track By](#track-by)
 
 
@@ -43,8 +44,14 @@ BootStrap Grid Behavior
 
 Combine the classes to use change column widths on different grid sizes.
 
+![dash_col](gifs/dash_col.gif)
+
 \<div class="col-md-3 col-sm-6">..\</div>
 
+Maximize Widgets
+----------------
+
+![dash_max](gifs/dash_max.gif)
 
 Track By
 --------
