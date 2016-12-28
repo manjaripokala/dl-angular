@@ -21,6 +21,8 @@ Documenting few of the interesting feature enhancements I worked on in our Integ
 
 -	[Infinite Scroll with Lazy Loading](#infinite-scroll-with-lazy-loading)
 -	[Auto Authenticate on Sign In](#auto-authenticate-on-sign-in)
+-	[BootStrap Grid Behavior](#bootstrap-grid-behavior)
+- [Track By](#track-by)
 
 
 Infinite Scroll with Lazy Loading
@@ -33,6 +35,22 @@ Auto Authenticate on Sign In
 ----------------------------
 
 Fetch the user information without the need for refreshing the sign in page.
+
+BootStrap Grid Behavior
+-----------------------
+
+Combine the classes to use change column widths on different grid sizes.
+
+\<div class="col-md-3 col-sm-6">..\</div>
+
+
+Track By
+--------
+
+The track by needs to be at the end of the expression of ng-repeat.
+
+\<li ng-repeat="person in attendees | filter: {arrived: false } track by person.id">
+
 
 ## Welcome to GitHub Pages
 
