@@ -1,7 +1,17 @@
 
 ## Intro / Bio
 
-Hello World, this is [Manjari Pokala](https://www.linkedin.com/in/manjari-pokala). Currently working as an Application Developer at a small Big Data startup [Datalakes Inc](http://www.datalakes.com). My past experience is in Java based web application development.
+Hello World, this is [Manjari Pokala](https://www.linkedin.com/in/manjari-pokala). Currently working as an Application Developer at a Big Data startup [Datalakes Inc](http://www.datalakes.com). 
+
+Experienced in following aspects of the stack:
+
+* [AngularJS](http://angularjs.org/)
+* [Twitter Bootstrap](http://getbootstrap.com/)
+* [Maven](http://maven.apache.org/)
+* [Spring MVC REST](http://spring.io/guides/gs/rest-service/)
+* [Spring Data JPA](http://projects.spring.io/spring-data-jpa/)
+* [Liquibase](http://www.liquibase.org/) (for database updates)
+* [PostgreSQL](https://www.postgresql.org/)
 
 ## About Blog
 
