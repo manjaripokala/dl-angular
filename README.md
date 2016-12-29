@@ -3,21 +3,9 @@
 
 Hello World, this is [Manjari Pokala](https://www.linkedin.com/in/manjari-pokala). Currently working as an Application Developer at a small Big Data startup [Datalakes Inc](http://www.datalakes.com). My past experience is in Java based web application development.
 
-## About Datalakes
-
-Datalakes **I**nformation **E**xperience **P**latform is a Business Intelligence and Analytics solution on the Cloud. It addresses all the aspects of Data-to-Information cycle : Acquire, Process, Store, Analyze, Visualize and Publish - all delivered as a self service platform. The platform provides an easy access to the stunning from any browser or mobile device.
-
-Thanks to founders [Krishna](https://www.linkedin.com/in/krishnaanisetty) & [Rajeev](https://www.linkedin.com/in/rajeevps) for giving me the opportunity to work on the cool app. 
-
-Please feel free to watch the [demo](http://datalakes.com/demo/) to know more about our platform.
-
-Screenshot of the Datalakes IEP app in action
-
-![dl-mac](http://datalakes.com/wp-content/uploads/2014/03/imac.png)
-
 ## About Blog
 
-Documenting few of the interesting feature enhancements I worked on in our Integrated Application Platform.  
+Documenting few of the interesting feature enhancements & related findings I contributed to in our Integrated Application Platform.  
 
 -	[Infinite Scroll with Lazy Loading](#infinite-scroll-with-lazy-loading)
 -	[Auto Authenticate on Sign In](#auto-authenticate-on-sign-in)
@@ -60,5 +48,17 @@ The track by needs to be at the end of the expression of ng-repeat.
 
 \<li ng-repeat="person in attendees | filter: {arrived: false } track by person.id">
 
+
+## About Datalakes
+
+Datalakes **I**nformation **E**xperience **P**latform is a Business Intelligence and Analytics solution on the Cloud. It addresses all the aspects of Data-to-Information cycle : Acquire, Process, Store, Analyze, Visualize and Publish - all delivered as a self service platform. The platform provides an easy access to the stunning dashboards from any browser or mobile device.
+
+Thanks to founders [Krishna](https://www.linkedin.com/in/krishnaanisetty) & [Rajeev](https://www.linkedin.com/in/rajeevps) for giving me the opportunity to work on the cool app. 
+
+Please feel free to watch the [demo](http://datalakes.com/demo/) to know more about our platform.
+
+Screenshot of the Datalakes IEP app in action
+
+![dl-mac](http://datalakes.com/wp-content/uploads/2014/03/imac.png)
 
 Thanks for visiting. Feedback appreciated.
