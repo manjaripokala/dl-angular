@@ -17,11 +17,35 @@ Experienced in following aspects of the stack:
 
 Documenting few of the interesting feature enhancements & related findings I contributed to in our Integrated Application Platform.  
 
+## SQL / Databse
+
+- [REST API Calls](#rest-api-calls)
+- [Stored Procedures](#stored-procedures)
+- [Liquibase DB Update](#liquibase-db-update)
+
+
+## Angular JS
+
 -	[Infinite Scroll with Lazy Loading](#infinite-scroll-with-lazy-loading)
 -	[Auto Authenticate on Sign In](#auto-authenticate-on-sign-in)
 -	[BootStrap Grid Behavior](#bootstrap-grid-behavior)
 -	[Maximize Widgets](#maximize-widgets)
 - [Track By](#track-by)
+
+
+REST API Calls
+--------------
+
+
+
+Stored Procedures
+-----------------
+
+
+
+Liquibase DB Update
+-------------------
+
 
 
 Infinite Scroll with Lazy Loading
@@ -57,6 +81,9 @@ Track By
 The track by needs to be at the end of the expression of ng-repeat.
 
 \<li ng-repeat="person in attendees | filter: {arrived: false } track by person.id">
+
+
+
 
 
 ## About Datalakes
