@@ -36,7 +36,7 @@ Documenting few of the interesting feature enhancements & related findings I con
 REST API Calls
 --------------
 
-
+![widget](gifs/widget1.gif)
 
 Stored Procedures
 -----------------
