@@ -15,7 +15,7 @@ Experienced in following aspects of the stack:
 
 ## About Blog
 
-Documenting few of the interesting feature enhancements & related findings I contributed to in our Integrated Application Platform.  
+Documenting few of the interesting feature enhancements & related findings / learnings, as I contributed to in our Integrated Application Platform.  
 
 ## SQL / Databse
 
@@ -31,6 +31,7 @@ Documenting few of the interesting feature enhancements & related findings I con
 -	[BootStrap Grid Behavior](#bootstrap-grid-behavior)
 -	[Maximize Widgets](#maximize-widgets)
 - [Track By](#track-by)
+- [Filter Data](#filter-data)
 
 
 REST API Calls
@@ -82,6 +83,9 @@ The track by needs to be at the end of the expression of ng-repeat.
 
 \<li ng-repeat="person in attendees | filter: {arrived: false } track by person.id">
 
+
+Filter Data
+-----------
 
 
 
